@@ -1,0 +1,521 @@
+!SESSION 2019-11-25 01:04:44.975 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:04:56.081
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:04:56.987
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:04:57.166
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:04:57.167
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:04:57.772
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:04:57.884
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:00.482
+!MESSAGE Finished creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:20.867
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:20.971
+!MESSAGE Workspace initialized in 23797ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:21.077
+!MESSAGE >> java/buildWorkspace (full)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:21.182
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:29.780
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:36.464
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:41.973
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:41.974
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:42.066
+!MESSAGE Reconciled 0, validated: 1. Took 5788 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:42.174
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Interfaces/ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:42.371
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2019-11-25 01:05:44.767
+!MESSAGE Error occured while building workspace. Details: 
+message: QueueInterface cannot be resolved to a type;code: 16777218
+message: ArrayQueue cannot be resolved to a type;code: 16777218
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.286
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.287
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.383
+!MESSAGE begin problem for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.383
+!MESSAGE 0 problems reported for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.466
+!MESSAGE Reconciled 0, validated: 2. Took 881 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.566
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.569
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.684
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Interfaces/QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.866
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.869
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.871
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:45.970
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Interfaces/StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.167
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.169
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.171
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.478
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Array/ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.583
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.670
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.675
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.866
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.869
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.870
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.871
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.872
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.873
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.875
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.971
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.971
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:46.973
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.073
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.166
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.168
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.171
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.278
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.366
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.369
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.465
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.467
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.469
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.470
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.473
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.474
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.476
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.566
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.569
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.582
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.666
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.668
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.670
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.672
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.675
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.676
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.776
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.778
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.779
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.783
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.784
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.866
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.870
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.872
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.874
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.971
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:47.977
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:48.065
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:48.073
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:48.073
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:48.076
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:48.077
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:48.081
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:50.380
+!MESSAGE begin problem for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:50.381
+!MESSAGE 0 problems reported for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:50.777
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:50.778
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.268
+!MESSAGE begin problem for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.269
+!MESSAGE 0 problems reported for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.385
+!MESSAGE begin problem for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.385
+!MESSAGE 0 problems reported for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.475
+!MESSAGE begin problem for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.475
+!MESSAGE 0 problems reported for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.576
+!MESSAGE Reconciled 0, validated: 5. Took 3193 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:51.684
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Lista/ListaEncadeada.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:52.166
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:52.284
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:54.582
+!MESSAGE begin problem for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:54.583
+!MESSAGE 0 problems reported for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:54.966
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:54.967
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.271
+!MESSAGE begin problem for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.271
+!MESSAGE 0 problems reported for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.375
+!MESSAGE begin problem for /ListaEncadeada.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.375
+!MESSAGE 0 problems reported for /ListaEncadeada.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.488
+!MESSAGE begin problem for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.576
+!MESSAGE 0 problems reported for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.679
+!MESSAGE begin problem for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.679
+!MESSAGE 0 problems reported for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.684
+!MESSAGE Reconciled 0, validated: 6. Took 2310 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.687
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.765
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.870
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Lista/ListQueue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:55.981
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.065
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.067
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.069
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.087
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Lista/ListStack.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.179
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.276
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.277
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.366
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Lista/No.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:05:56.665
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:00.873
+!MESSAGE begin problem for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:00.873
+!MESSAGE 0 problems reported for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:01.274
+!MESSAGE begin problem for /ListQueue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:01.275
+!MESSAGE 0 problems reported for /ListQueue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:01.881
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:01.881
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:02.073
+!MESSAGE begin problem for /No.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:02.074
+!MESSAGE 0 problems reported for /No.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:02.367
+!MESSAGE begin problem for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:02.384
+!MESSAGE 0 problems reported for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:02.786
+!MESSAGE begin problem for /ListStack.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:02.787
+!MESSAGE 0 problems reported for /ListStack.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.166
+!MESSAGE begin problem for /ListaEncadeada.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.172
+!MESSAGE 0 problems reported for /ListaEncadeada.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.366
+!MESSAGE begin problem for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.367
+!MESSAGE 0 problems reported for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.477
+!MESSAGE begin problem for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.478
+!MESSAGE 0 problems reported for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.478
+!MESSAGE Reconciled 0, validated: 9. Took 5907 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.482
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:03.484
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:05.774
+!MESSAGE begin problem for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:05.775
+!MESSAGE 0 problems reported for /QueueInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:06.277
+!MESSAGE begin problem for /ListQueue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:06.277
+!MESSAGE 0 problems reported for /ListQueue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:06.871
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:06.872
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:07.069
+!MESSAGE begin problem for /No.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:07.070
+!MESSAGE 0 problems reported for /No.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:07.571
+!MESSAGE begin problem for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:07.572
+!MESSAGE 0 problems reported for /ArrayQeue.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.066
+!MESSAGE begin problem for /ListStack.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.067
+!MESSAGE 0 problems reported for /ListStack.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.577
+!MESSAGE begin problem for /ListaEncadeada.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.577
+!MESSAGE 0 problems reported for /ListaEncadeada.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.682
+!MESSAGE begin problem for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.682
+!MESSAGE 0 problems reported for /ListaEncadeadaInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.769
+!MESSAGE begin problem for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.769
+!MESSAGE 0 problems reported for /StackInterface.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:06:08.771
+!MESSAGE Reconciled 0, validated: 9. Took 4880 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:16:31.399
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-25 01:16:31.865
+!MESSAGE >> document/hover
